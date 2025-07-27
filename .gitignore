@@ -1,0 +1,7 @@
+# Игнорировать виртуальное окружение
+venv/
+module0-python-basics/venv/
+
+# Игнорировать файлы Python cache
+__pycache__/
+*.pyc
